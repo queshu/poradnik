@@ -1,0 +1,8 @@
+gui, show, w300 h300, poradnik
+
+
+
+
+
+guiclose:
+exitapp
